@@ -213,7 +213,6 @@ section {
     flex: 1;
     justify-content: center;
     align-items: center;
-    animation: slideFromRight 1s linear;
 }
 
 .design-img img {
